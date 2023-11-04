@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/focustyle-app/static/css/main.5daeb3b8.css",
-    "main.js": "/focustyle-app/static/js/main.f99acab9.js",
+    "main.css": "/focustyle-app/static/css/main.a5671579.css",
+    "main.js": "/focustyle-app/static/js/main.f28ca30f.js",
     "static/js/787.c1112931.chunk.js": "/focustyle-app/static/js/787.c1112931.chunk.js",
     "index.html": "/focustyle-app/index.html",
-    "main.5daeb3b8.css.map": "/focustyle-app/static/css/main.5daeb3b8.css.map",
-    "main.f99acab9.js.map": "/focustyle-app/static/js/main.f99acab9.js.map",
+    "main.a5671579.css.map": "/focustyle-app/static/css/main.a5671579.css.map",
+    "main.f28ca30f.js.map": "/focustyle-app/static/js/main.f28ca30f.js.map",
     "787.c1112931.chunk.js.map": "/focustyle-app/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5daeb3b8.css",
-    "static/js/main.f99acab9.js"
+    "static/css/main.a5671579.css",
+    "static/js/main.f28ca30f.js"
   ]
 }
