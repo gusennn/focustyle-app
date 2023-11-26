@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/focustyle-app/static/css/main.a5671579.css",
-    "main.js": "/focustyle-app/static/js/main.f28ca30f.js",
+    "main.css": "/focustyle-app/static/css/main.4464e86d.css",
+    "main.js": "/focustyle-app/static/js/main.15567cb7.js",
     "static/js/787.c1112931.chunk.js": "/focustyle-app/static/js/787.c1112931.chunk.js",
+    "static/media/logo.svg": "/focustyle-app/static/media/logo.cde90640147e71ad022266c591722050.svg",
+    "static/media/glasses.svg": "/focustyle-app/static/media/glasses.d53a65c93155763eff3eb3cafd4736b3.svg",
+    "static/media/icon_heart.svg": "/focustyle-app/static/media/icon_heart.34200609f2b402f49d9f.svg",
+    "static/media/iconBasket.svg": "/focustyle-app/static/media/iconBasket.b7a08c1710faf5e6b8e3568287d242d8.svg",
+    "static/media/plus.svg": "/focustyle-app/static/media/plus.259359f1d364f0bd212f.svg",
+    "static/media/icon_user.svg": "/focustyle-app/static/media/icon_user.2c2481b8cc21b92524b4.svg",
     "index.html": "/focustyle-app/index.html",
-    "main.a5671579.css.map": "/focustyle-app/static/css/main.a5671579.css.map",
-    "main.f28ca30f.js.map": "/focustyle-app/static/js/main.f28ca30f.js.map",
+    "static/media/trash.svg": "/focustyle-app/static/media/trash.6c854f645f6ff595f4a330ec01802734.svg",
+    "static/media/menu_cross.svg": "/focustyle-app/static/media/menu_cross.55c64164f0c8f4ff6183.svg",
+    "static/media/icon_menu.svg": "/focustyle-app/static/media/icon_menu.19d530537cb0c676c2b2.svg",
+    "static/media/minus.svg": "/focustyle-app/static/media/minus.56a31733528583f4af99.svg",
+    "main.4464e86d.css.map": "/focustyle-app/static/css/main.4464e86d.css.map",
+    "main.15567cb7.js.map": "/focustyle-app/static/js/main.15567cb7.js.map",
     "787.c1112931.chunk.js.map": "/focustyle-app/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5671579.css",
-    "static/js/main.f28ca30f.js"
+    "static/css/main.4464e86d.css",
+    "static/js/main.15567cb7.js"
   ]
 }
