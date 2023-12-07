@@ -1,3 +1,3 @@
-### [Lina]('#')
+### [Lina]('https://github.com/LinaCor')
 ### [Darya]('#')
-### [Gusen]('#')
+### [Gusen]('https://github.com/gusennn')
